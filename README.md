@@ -1,6 +1,6 @@
 # Content: Unsupervised Learning
 ## Project: Creating Customer Segments
-
+![image](https://user-images.githubusercontent.com/49537918/56246280-c92ef180-605e-11e9-82e7-fd385f44d8db.png)
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
